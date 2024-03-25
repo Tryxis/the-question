@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question0
   m_EditorClassIdentifier: 
   question: What is the name of the sentient Green Lantern planet?
+  answers:
+  - Qward
+  - Mogo
+  - Ysmault
+  - Odym
+  correctAnswerIndex: 1
