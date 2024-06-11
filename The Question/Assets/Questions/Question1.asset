@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question1
   m_EditorClassIdentifier: 
   question: What is the civilian name of the superhero known as Wonder Woman?
+  answers:
+  - Carol Danvers
+  - Diana Prince
+  - Kate Kane
+  - Shiera Hall
+  correctAnswerIndex: 1

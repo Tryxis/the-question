@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question4
   m_EditorClassIdentifier: 
   question: What is the name of the Blue entity of Hope?
+  answers:
+  - Parallax
+  - Ion
+  - Adara
+  - Ophidian
+  correctAnswerIndex: 2

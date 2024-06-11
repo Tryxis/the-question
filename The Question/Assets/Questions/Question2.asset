@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question2
   m_EditorClassIdentifier: 
   question: In which storyline did Batman have his back broken?
+  answers:
+  - Knightfall
+  - Hush
+  - The Long Halloween
+  - The Dark Knight Returns
+  correctAnswerIndex: 0
